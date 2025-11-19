@@ -1,4 +1,4 @@
-# qvis
+# QVIS
 Quantum Vector Illustration Software ! An All-purpose artistic vector illustration sofware made with love, Qt and a lot of QGIS algorithms so that your maps (and all other beautiful works) become worthy of the Louvre's collections.
 
 Welcome to the QVIS main repository ! Or as I like to call it in its current state, more or less an empty spreadsheet, or a preprepreprepre-Alpha.
@@ -20,3 +20,11 @@ Why not just use another alternative like Inkscape ? Inkscape is really good, bu
 - Possibility for plug-ins
 - QGIS APIs and libraries, so if you're editing maps from QGIS, you'll be able to correct them all on the spot (though of course, it's better to correct them
 - And much more to be added whenever ideas pop up
+
+# What is the final goal ?
+
+I'm going to design a visual identity which follows that of QGIS, it would be REALLY nice if this could become an official QGIS project one day :)))))
+
+# How is this gonna work ?
+
+I'm a university student, I'm messy, I have the free time of a peanut, and on top of it I don't have developper knowledge of the computer, though I can probably manage to make an early working GUI. In short, I don't know how I'll be able to manage such a MASSIVE project. This is why I'll probably need some very good help from the community for anything past a very basic demo pre alpha render. It would be great if I could get support from my university or something. They have a graphics department and a computer science department (including IT and sysadmin) 
