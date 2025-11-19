@@ -8,7 +8,7 @@ I'm a student in geography/cartography, and QGIS is my main work software. Howev
 
 Thus, QVIS aims to pack those QGIS functionalities + many more in an independent software, so you can :
 - Do any kind of art on it, and not just maps, without requiring QGIS on the side
-- Edit QGIS maps instantly in live cross-compatibility, allowing you to switch dynamically between both software, as well as turning your maps in the next Van Gogh completely for free
+- Edit QGIS maps instantly in live cross-compatibility, allowing you to switch dynamically between both software, as well as turning your maps in the next Van Gogh completely for free (ArcGIS and Illustrator already work together like that... but this woudl be NEXT level. And free. Without AI plundering your stuff for training data, which is indeed useful for us cartographers working with sensitive and confidential data...)
 
 Why not just use another alternative like Inkscape ? Inkscape is really good, but it's made on Gtk, and thus I've had a lot of issues with incompatibilities between Gtk and Qt (not just with QGIS... we all know the problems with svg formating, and don't get me started on issues with other Qt based software like KDE Plasma... I've had my fair share of crashes). Inkscape is also very different from Illustrator, and as yet another kid trapped in Adobe dependence, I'm about as competent with it as wet cardboard would be if you gave it a keyboard). On a more cartographer-minded vision Inkscape also doesn't have the level of integration with QGIS that QVIS aims to have. Thus, as a cartographer, it makes even more sense for me to want a software like QVIS which works even better than just out-of-the-box together with QGIS. 
 
